@@ -27,3 +27,5 @@ for(int i=0;i<n;i++)
 	}
 printf("Razn = %d", max-min);
 system("pause");
+return 0;
+}
