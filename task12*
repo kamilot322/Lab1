@@ -1,3 +1,4 @@
+//Идёт поиск по 1 параметру вместо 4
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
